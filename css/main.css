@@ -10,7 +10,7 @@
 
 .box-1 {
     background: red;
-    float: right;
+    float: left;
 }
 
 .box-2 {
@@ -27,6 +27,6 @@
 
 .box-4 {
     background: #FF4A00;
-    float: right;
+    float: left;
     clear: both;
 }
