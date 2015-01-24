@@ -6,3 +6,7 @@ img {
 h1 {
     float: right;
 }
+
+p + p + p {
+    clear: both;
+}
